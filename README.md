@@ -12,6 +12,6 @@
 <img src="https://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/68e39e2e0a55fa8.png" width="25px">𝙇𝘼𝙉𝙂𝙐𝘼𝙂𝙀𝙎 :
 
 🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇<br>
-<img src="https://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/68e39e2e0a55fa8.png" width="25px">𝙈𝙊𝙎𝙏 𝙐𝙎𝙀𝘿 𝙇𝘼𝙉𝙂𝙐𝘼𝙂𝙀𝙎 :
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+<img src="https://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/68e39e2e0a55fa8.png" width="25px">𝙈𝙊𝙎𝙏 𝙐𝙎𝙀𝘿 𝙇𝘼𝙉𝙂𝙐𝘼𝙂𝙀𝙎 :<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarenKnup&show_icons=true&theme=tokyonight)
 
