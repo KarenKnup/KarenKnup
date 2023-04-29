@@ -6,7 +6,10 @@
   <img src="https://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/68e39e2e0a55fa8.png" width="25px">𝘼𝘽𝙊𝙐𝙏 𝙈𝙀 :
 
 🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇<br>
-<img src="https://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/68e39e2e0a55fa8.png" width="25px">𝙁𝙄𝙉𝘿 𝙈𝙀 :
+<img src="https://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/68e39e2e0a55fa8.png" width="25px">𝙁𝙄𝙉𝘿 𝙈𝙀 :<br>
+<a href="https://www.linkedin.com/in/Kahlimba/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.instagram.com/kahlimba/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+<a href="https://replit.com/@KarenKnup"><img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white"></a>
 
 🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇<br>
 <img src="https://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/68e39e2e0a55fa8.png" width="25px">𝙇𝘼𝙉𝙂𝙐𝘼𝙂𝙀𝙎 :<br>
