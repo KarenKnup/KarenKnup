@@ -3,7 +3,8 @@
   <h1>🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇 𝓦ᴇʟᴄᴏᴍᴇ ~ 🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇</h1>
   </div>
   
-  <img src="https://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/68e39e2e0a55fa8.png" width="25px">𝘼𝘽𝙊𝙐𝙏 𝙈𝙀 :
+  <img src="https://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/68e39e2e0a55fa8.png" width="25px">𝘼𝘽𝙊𝙐𝙏 𝙈𝙀 :<br>
+  - Hi~! My name's Karen.
 
 🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇🆇<br><br>
 <img src="https://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/68e39e2e0a55fa8.png" width="25px">𝙁𝙄𝙉𝘿 𝙈𝙀 :<br>
