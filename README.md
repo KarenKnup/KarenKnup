@@ -1,6 +1,6 @@
 <div align="center">
   <img width ="500px" src="https://i.ibb.co/WxTp838/Sem-t-tulo.png" alt="Sem-t-tulo" border="0">
-  <h1>――――――🆆ᴇʟᴄᴏᴍᴇ――――――</h1>
+  <h1>―――――――🆆ᴇʟᴄᴏᴍᴇ―――――――</h1>
   </div>
 
   <img src="https://i.postimg.cc/bwK9WYzj/07-1.webp" width="25px">𝘼𝘽𝙊𝙐𝙏 𝙈𝙀 :<br>
