@@ -1,9 +1,9 @@
 <div align="center">
-  <img width ="500px" src="https://i.ibb.co/WxTp838/Sem-t-tulo.png" alt="Sem-t-tulo" border="0">
-  <h1>――――🆆ᴇʟᴄᴏᴍᴇ――――</h1>
-  </div>
-
-<h1><img src="https://i.postimg.cc/bwK9WYzj/07-1.webp" width="25px" style="display:inline-block; vertical-align:middle;"> 𝘼𝘽𝙊𝙐𝙏 𝙈𝙀 :</h1>
+  <img width="500px" src="https://i.ibb.co/WxTp838/Sem-t-tulo.png" alt="Sem-t-tulo" border="0">
+  <h1 style="margin-bottom: 0;">――――🆆ᴇʟᴄᴏᴍᴇ――――<br> <br>
+  <img src="https://i.postimg.cc/bwK9WYzj/07-1.webp" width="25px" style="display:inline-block; vertical-align:middle;"> 𝘼𝘽𝙊𝙐𝙏 𝙈𝙀 :
+  </h1>
+</div>
 
   - Hi~! My name's Karen.
   - I live in Rio de Janeiro, Brazil.
