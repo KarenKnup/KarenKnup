@@ -2,7 +2,7 @@
   <img width ="500px" src="https://i.ibb.co/WxTp838/Sem-t-tulo.png" alt="Sem-t-tulo" border="0">
   <h1>✖✖✖✖✖✖ 𝓦ᴇʟᴄᴏᴍᴇ ~ ✖✖✖✖✖✖✖</h1>
   </div>
-  
+
   <img src="https://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/68e39e2e0a55fa8.png" width="25px">𝘼𝘽𝙊𝙐𝙏 𝙈𝙀 :<br>
   - Hi~! My name's Karen.
   - I live in Rio de Janeiro, Brazil.
@@ -10,7 +10,7 @@
   - Future software engineer.
   - Currently learning Python, PHP and Java.
 
-✖✖✖✖✖✖✖✖✖✖✖✖✖✖✖✖✖✖✖✖✖✖✖✖✖✖✖✖✖✖✖✖✖✖✖✖✖✖✖✖✖✖✖<br><br>
+<div align="center"><img src="https://i.ibb.co/RHMqnXk/Pngtree-arrow-dividing-line-5411722-2.png" width="500px"></div>
 <img src="https://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/68e39e2e0a55fa8.png" width="25px">𝙁𝙄𝙉𝘿 𝙈𝙀 :<br>
 <a href="https://www.linkedin.com/in/Kahlimba/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/kahlimba/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
