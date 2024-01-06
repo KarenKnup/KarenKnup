@@ -9,7 +9,7 @@
   - I live in Rio de Janeiro, Brazil.
   - I'm styding Analysis and Systems development in FAETERJ.
   - Future software engineer.
-  - Currently learning Python, Angular and Java.
+  - Currently learning Angular and Java.
 
 <h1><img src="https://i.postimg.cc/bwK9WYzj/07-1.webp" style="display:inline-block; vertical-align:middle;" width="25px"> 𝙁𝙄𝙉𝘿 𝙈𝙀 :</h1>
 
