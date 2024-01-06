@@ -1,5 +1,5 @@
 <div align="center">
-  <img width ="800px" src="https://i.ibb.co/WxTp838/Sem-t-tulo.png" alt="Sem-t-tulo" border="0">
+  <img width ="500px" src="https://i.ibb.co/WxTp838/Sem-t-tulo.png" alt="Sem-t-tulo" border="0">
   <h1>✖✖✖✖✖✖ 𝓦ᴇʟᴄᴏᴍᴇ ~ ✖✖✖✖✖✖✖</h1>
   </div>
   
