@@ -3,7 +3,7 @@
   <h1>――――🆆ᴇʟᴄᴏᴍᴇ――――</h1>
   </div>
 
-  <img src="https://i.postimg.cc/bwK9WYzj/07-1.webp" width="25px">𝘼𝘽𝙊𝙐𝙏 𝙈𝙀 :<br>
+<img src="https://i.postimg.cc/bwK9WYzj/07-1.webp" width="25px" style="display:inline-block; vertical-align:middle;"> <span style="font-size: 50px;">𝘼𝘽𝙊𝙐𝙏 𝙈𝙀 :</span><br>
   - Hi~! My name's Karen.
   - I live in Rio de Janeiro, Brazil.
   - I'm styding Analysis and Systems development in FAETERJ.
