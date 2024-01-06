@@ -1,7 +1,7 @@
 <div align="center">
   <img width="500px" src="https://i.ibb.co/WxTp838/Sem-t-tulo.png" alt="Sem-t-tulo" border="0">
   <h1 style="margin-bottom: 0;">――――🆆ᴇʟᴄᴏᴍᴇ――――<br> <br>
-  <img src="https://i.postimg.cc/bwK9WYzj/07-1.webp" width="25px" style="display:inline-block; vertical-align:middle;"> 𝘼𝘽𝙊𝙐𝙏 𝙈𝙀 :
+  <div align="left"><img src="https://i.postimg.cc/bwK9WYzj/07-1.webp" width="25px" style="display:inline-block; vertical-align:middle;"> 𝘼𝘽𝙊𝙐𝙏 𝙈𝙀 :</div>
   </h1>
 </div>
 
