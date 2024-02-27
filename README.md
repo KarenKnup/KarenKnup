@@ -4,18 +4,17 @@
   <div align="left"><img src="https://i.postimg.cc/bwK9WYzj/07-1.webp" width="25px" style="display:inline-block; vertical-align:middle;"> 𝘼𝘽𝙊𝙐𝙏 𝙈𝙀 :</div>
   </h1>
 </div>
+<a href="mailto:contato.karen.knup@gmail.com"><img src="https://camo.githubusercontent.com/3f3a28cce40a1f01e5420a4d35b62542b0d78e38f03fbb75746873b8b68a58df/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d2532333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>
+<a href="https://www.linkedin.com/in/Kahlimba/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.instagram.com/kahlimba/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+<a href="https://replit.com/@KarenKnup"><img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white"></a>
+<!-- <a href="https://gitlab.com/rlinsdev" rel="nofollow"><img src="https://camo.githubusercontent.com/17581e3e5b3bf01f7bdbd9814308f06fb90a0dca860d4fce29531485278808b8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744c61622d3333304636333f7374796c653d666f722d7468652d6261646765266c6f676f3d6769746c6162266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&amp;logo=gitlab&amp;logoColor=white" style="max-width: 100%;"></a> -->
 
   - Hi~! My name's Karen.
   - I live in Rio de Janeiro, Brazil.
   - I'm styding Analysis and Systems development in FAETERJ.
   - Future software engineer.
   - Currently learning Angular and Java.
-
-<h1><img src="https://i.postimg.cc/bwK9WYzj/07-1.webp" style="display:inline-block; vertical-align:middle;" width="25px"> 𝙁𝙄𝙉𝘿 𝙈𝙀 :</h1>
-
-<a href="https://www.linkedin.com/in/Kahlimba/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.instagram.com/kahlimba/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-<a href="https://replit.com/@KarenKnup"><img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white"></a>
 
 <h1><img src="https://i.postimg.cc/bwK9WYzj/07-1.webp" width="25px">𝙇𝘼𝙉𝙂𝙐𝘼𝙂𝙀𝙎 :</h1>
 
