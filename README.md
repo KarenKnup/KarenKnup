@@ -38,8 +38,7 @@ Project | About | Technologies
 <a href="https://github.com/KarenKnup/Temptation-Cafe">Temptation Cafe</a> | A simple system for a cafe.  | Python, Tkinter and SQLite.
 <a href="https://github.com/KarenKnup/Hangman-Game">Hangman Game</a> | A word-guessing game where one person thinks of a word and the other tries to guess it by suggesting letters. | C Language.
 <a href="https://github.com/KarenKnup/Multifunctional-Calculator">Multifunctional Calculator</a> | A calculator capable of performing various complex calculations in addition to the functions of a scientific calculator. | C Language.
-Sistema Cotistas| x | x
-Sistema Acadêmico | x | x
+Sistema Cotistas| System capable of controlling and organizing information efficiently, simplifying processes, administration and interaction between the various sectors of FAETEC and all students involved. | PHP, HTML, Bootstrap, Google API, Google Charts, ViaCEP, Javascript, MySQL, Sweet Alert2 and Quill.
 Controle de Frequência | x | x
 
 <h1><img src="https://i.postimg.cc/bwK9WYzj/07-1.webp" width="25px">𝙈𝙊𝙎𝙏 𝙐𝙎𝙀𝘿 𝙇𝘼𝙉𝙂𝙐𝘼𝙂𝙀𝙎 :</h1>
