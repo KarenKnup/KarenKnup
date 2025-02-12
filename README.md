@@ -1,6 +1,6 @@
 <div align="center">
   <img width="500px" src="https://i.ibb.co/WxTp838/Sem-t-tulo.png" alt="Sem-t-tulo" border="0">
-  <h1 style="margin-bottom: 0;">――――🆆ᴇʟᴄᴏᴍᴇ――――<br> <br>
+  <h1 style="margin-bottom: 0;">――――🆆🅴🅻🅲🅾🅼🅴――――<br> <br>
   <div align="left"><img src="https://i.postimg.cc/bwK9WYzj/07-1.webp" width="25px" style="display:inline-block; vertical-align:middle;"> 𝘼𝘽𝙊𝙐𝙏 𝙈𝙀 :</div>
   </h1>
 </div>
@@ -12,10 +12,10 @@
 <a href="https://replit.com/@KarenKnup"><img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white"></a>
 <!-- <a href="https://gitlab.com/rlinsdev" rel="nofollow"><img src="https://camo.githubusercontent.com/17581e3e5b3bf01f7bdbd9814308f06fb90a0dca860d4fce29531485278808b8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744c61622d3333304636333f7374796c653d666f722d7468652d6261646765266c6f676f3d6769746c6162266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&amp;logo=gitlab&amp;logoColor=white" style="max-width: 100%;"></a> -->
 
-  - Hi~! My name's Karen.
+  - Hello~! My name's Karen.
   - I live in Rio de Janeiro, Brazil.
-  - I'm styding Analysis and Systems development in FAETERJ.
-  - Future software engineer.
+  - I'm studied Analysis and Systems development in FAETERJ.
+  - I'm a Software engineer.
   - Currently learning Angular and Java.
 
 <h1><img src="https://i.postimg.cc/bwK9WYzj/07-1.webp" width="25px">𝙇𝘼𝙉𝙂𝙐𝘼𝙂𝙀𝙎 :</h1>
@@ -31,6 +31,13 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
+<h1><img src="https://i.postimg.cc/bwK9WYzj/07-1.webp" width="25px">𝙋𝙍𝙊𝙅𝙀𝘾𝙏𝙎 :</h1>
+
+Project | About | Technologies
+--------|-------|--------
+x | x | x
+x | x | x
+x | x | x
 
 <h1><img src="https://i.postimg.cc/bwK9WYzj/07-1.webp" width="25px">𝙈𝙊𝙎𝙏 𝙐𝙎𝙀𝘿 𝙇𝘼𝙉𝙂𝙐𝘼𝙂𝙀𝙎 :</h1>
 
