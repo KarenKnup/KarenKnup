@@ -35,9 +35,9 @@
 
 Project | About | Technologies
 --------|-------|--------
-<a href="https://github.com/KarenKnup/Temptation-Cafe">Temptation Cafe</a> | x | x
-<a href="https://github.com/KarenKnup/Hangman-Game">Hangman Game</a> | x | x
-<a href="https://github.com/KarenKnup/Multifunctional-Calculator">Multifunctional Calculator</a> | x | x
+<a href="https://github.com/KarenKnup/Temptation-Cafe">Temptation Cafe</a> | A simple system for a cafe.  | Python, Tkinter and SQLite.
+<a href="https://github.com/KarenKnup/Hangman-Game">Hangman Game</a> | A word-guessing game where one person thinks of a word and the other tries to guess it by suggesting letters. | C Language.
+<a href="https://github.com/KarenKnup/Multifunctional-Calculator">Multifunctional Calculator</a> | A calculator capable of performing various complex calculations in addition to the functions of a scientific calculator. | C Language.
 Sistema Cotistas| x | x
 Sistema Acadêmico | x | x
 Controle de Frequência | x | x
