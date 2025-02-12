@@ -35,9 +35,12 @@
 
 Project | About | Technologies
 --------|-------|--------
-x | x | x
-x | x | x
-x | x | x
+<a href="https://github.com/KarenKnup/Temptation-Cafe">Temptation Cafe</a> | x | x
+<a href="https://github.com/KarenKnup/Hangman-Game">Hangman Game</a> | x | x
+<a href="https://github.com/KarenKnup/Multifunctional-Calculator">Multifunctional Calculator</a> | x | x
+Sistema Cotistas| x | x
+Sistema Acadêmico | x | x
+Controle de Frequência | x | x
 
 <h1><img src="https://i.postimg.cc/bwK9WYzj/07-1.webp" width="25px">𝙈𝙊𝙎𝙏 𝙐𝙎𝙀𝘿 𝙇𝘼𝙉𝙂𝙐𝘼𝙂𝙀𝙎 :</h1>
 
