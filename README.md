@@ -14,7 +14,7 @@
 
   - Hello~! My name's Karen.
   - I live in Rio de Janeiro, Brazil.
-  - I'm studied Analysis and Systems development in FAETERJ.
+  - I studied Analysis and Systems development in FAETERJ.
   - I'm a Software engineer.
   - Currently learning Angular and Java.
 
