@@ -1,22 +1,20 @@
 <div align="center">
-  <a href="https://www.instagram.com/arts.of.win/p/CyqepxdxETR/?locale=pt_PT&hl=en&img_index=1" target="_blank"><img width="640px" src="https://i.pinimg.com/originals/f9/57/6f/f9576fca9fc8ef79976a1d6327bbe9ae.gif" alt="Sem-t-tulo" border="0"></a>
-  <h1 style="margin-bottom: 0;">――――🅦🅔🅛🅒🅞🅜🅔――――<br> <br>
+  <a href="https://br.pinterest.com/pin/4644405859576740/" target="_blank"><img width="640px" src="https://i.pinimg.com/originals/f9/57/6f/f9576fca9fc8ef79976a1d6327bbe9ae.gif" alt="Sem-t-tulo" border="0"></a>
+  <br>
+  <a href="https://www.linkedin.com/in/Kahlimba/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:contato.karen.knup@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.instagram.com/kahlimba/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+  <a href="https://replit.com/@KarenKnup"><img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white"></a>
+  <h1 style="margin-bottom: 0;">  
   <div align="left"><img src="https://i.postimg.cc/bwK9WYzj/07-1.webp" width="25px" style="display:inline-block; vertical-align:middle;"> 𝘼𝘽𝙊𝙐𝙏 𝙈𝙀 :</div>
   </h1>
 </div>
 
-<a href="mailto:contato.karen.knup@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-</a>
-<a href="https://www.linkedin.com/in/Kahlimba/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.instagram.com/kahlimba/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-<a href="https://replit.com/@KarenKnup"><img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white"></a>
-<!-- <a href="https://gitlab.com/rlinsdev" rel="nofollow"><img src="https://camo.githubusercontent.com/17581e3e5b3bf01f7bdbd9814308f06fb90a0dca860d4fce29531485278808b8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744c61622d3333304636333f7374796c653d666f722d7468652d6261646765266c6f676f3d6769746c6162266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&amp;logo=gitlab&amp;logoColor=white" style="max-width: 100%;"></a> -->
-
-  - Hello~! My name's Karen.
+<!-- <a href="https://gitlab.com/rlinsdev" rel="nofollow"><img src="https://camo.githubusercontent.com/17581e3e5b3bf01f7bdbd9814308f06fb90a0dca860d4fce29531485278808b8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744c61622d3333304636333f7374796c653d666f722d7468652d6261646765266c6f676f3d6769746c6162266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&amp;logo=gitlab&amp;logoColor=white" style="max-width: 100%;"></a> --> 
+  - Hello, World! 🌎 My name's <strong>Karen</strong>.
   - I live in Rio de Janeiro, Brazil.
-  - I studied Analysis and Systems development in FAETERJ.
-  - I'm a Software engineer.
-  - Currently learning Angular and Java.
+  - I studied <strong>Analysis and Systems development</strong> in <strong>FAETERJ</strong>.
+  - Currently learning <strong>Angular</strong> and <strong>Java</strong>.
 
 <h1><img src="https://i.postimg.cc/bwK9WYzj/07-1.webp" width="25px">𝙇𝘼𝙉𝙂𝙐𝘼𝙂𝙀𝙎 :</h1>
 
