@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://www.instagram.com/arts.of.win/p/CyqepxdxETR/?locale=pt_PT&hl=en&img_index=1" target="_blank"><img width="500px" src="https://i.ibb.co/WxTp838/Sem-t-tulo.png" alt="Sem-t-tulo" border="0"></a>
+  <a href="https://www.instagram.com/arts.of.win/p/CyqepxdxETR/?locale=pt_PT&hl=en&img_index=1" target="_blank"><img width="640px" src="https://i.pinimg.com/originals/f9/57/6f/f9576fca9fc8ef79976a1d6327bbe9ae.gif" alt="Sem-t-tulo" border="0"></a>
   <h1 style="margin-bottom: 0;">――――🅦🅔🅛🅒🅞🅜🅔――――<br> <br>
   <div align="left"><img src="https://i.postimg.cc/bwK9WYzj/07-1.webp" width="25px" style="display:inline-block; vertical-align:middle;"> 𝘼𝘽𝙊𝙐𝙏 𝙈𝙀 :</div>
   </h1>
