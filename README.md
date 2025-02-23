@@ -5,6 +5,8 @@
   <a href="mailto:contato.karen.knup@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.instagram.com/kahlimba/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
   <a href="https://replit.com/@KarenKnup"><img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white"></a>
+  <a href="https://discord.com/users/958404459241799701"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://steamcommunity.com/id/Kahlimba/"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"></a>
   <h1 style="margin-bottom: 0;">  
   <div align="left"><img src="https://i.postimg.cc/bwK9WYzj/07-1.webp" width="25px" style="display:inline-block; vertical-align:middle;"> 𝘼𝘽𝙊𝙐𝙏 𝙈𝙀 :</div>
   </h1>
@@ -40,7 +42,7 @@ Project | About | Technologies
 <a href="https://github.com/KarenKnup/Temptation-Cafe">Temptation Cafe</a> | A simple system for a cafe.  | `Python` `Tkinter` `SQLite`
 <a href="https://github.com/KarenKnup/Hangman-Game">Hangman Game</a> | A word-guessing game where one person thinks of a word and the other tries to guess it by suggesting letters. | `C Language`
 <a href="https://github.com/KarenKnup/Multifunctional-Calculator">Multifunctional Calculator</a> | A calculator capable of performing various complex calculations in addition to the functions of a scientific calculator. | `C Language`
-Sistema Cotistas| System capable of controlling and organizing information efficiently, simplifying processes, administration and interaction between the various sectors of FAETEC and all students involved. | `PHP` `HTML` `Bootstrap` `Google API` `Google Charts` `ViaCEP` `Javascript` `MySQL` `SweetAlert2` `Quill`
+Sistema Cotistas| System capable of controlling and organizing information efficiently, simplifying processes, administration and interaction between the various sectors of FAETEC and all students involved. This system performs all the necessary CRUDs, generates and updates documents and reports. | `PHP` `HTML` `Bootstrap` `Google API` `Google Charts` `ViaCEP` `Javascript` `MySQL` `SweetAlert2` `Quill`
 <a href="https://www.linkedin.com/posts/karenknup_oii-rede-gostaria-de-compartilhar-activity-7232573538660999169-tgIc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEK_-T0BWaE0_TxX5sDYeeZVInk7p91gbFs">Controle de Frequência</a> | A software that aims to optimize the processes of registering and authenticating student attendance, the project proposes the implementation of a system based on reading QR Codes present on student ID cards and also generating reports. This software was created for the Brazilian Federal Government's "Pé-de-Meia" program. | `C#`
 
 <h1><img src="https://i.postimg.cc/bwK9WYzj/07-1.webp" width="25px">𝙈𝙊𝙎𝙏 𝙐𝙎𝙀𝘿 𝙇𝘼𝙉𝙂𝙐𝘼𝙂𝙀𝙎 :</h1>
