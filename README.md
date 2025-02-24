@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://br.pinterest.com/pin/4644405859576740/" target="_blank"><img width="640px" src="https://i.pinimg.com/originals/f9/57/6f/f9576fca9fc8ef79976a1d6327bbe9ae.gif" alt="Sem-t-tulo" border="0"></a>
+  <a href="https://br.pinterest.com/pin/4644405859576740/" target="_blank"><img width="640px" src="https://i.pinimg.com/originals/f9/57/6f/f9576fca9fc8ef79976a1d6327bbe9ae.gif" alt="Computer wallpaper" border="0"></a>
   <br>
   <a href="https://www.linkedin.com/in/KarenKnup/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:contato.karen.knup@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
