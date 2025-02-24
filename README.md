@@ -43,6 +43,7 @@ Sistema Cotistas| System capable of controlling and organizing information effic
 
 <h1><img src="https://i.postimg.cc/bwK9WYzj/07-1.webp" width="25px">𝙈𝙊𝙎𝙏 𝙐𝙎𝙀𝘿 𝙇𝘼𝙉𝙂𝙐𝘼𝙂𝙀𝙎 :</h1>
 
-![KarenKnup's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarenKnup&show_icons=true&theme=tokyonight)
-<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarenKnup&layout=compact&langs_count=7&theme=tokyonight">
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KarenKnup&show_icons=true&theme=tokyonight" alt="Karen's Github Stats">
+  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarenKnup&layout=compact&langs_count=7&theme=tokyonight" alt="Karen's most used languages">
+</div>
