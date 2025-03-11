@@ -50,22 +50,20 @@ Sistema Cotistas| System capable of controlling and organizing information effic
 
 <h1><img src="https://i.postimg.cc/bwK9WYzj/07-1.webp" width="25px">𝙎𝙏𝙐𝘿𝙄𝙀𝙎 𝙍𝙀𝙋𝙊𝙎𝙄𝙏𝙊𝙍𝙄𝙀𝙎 :</h1>
 
-Repository | About
----------------------------|-------
-<a href="https://github.com/KarenKnup/Selecao-If-e-Funcao">Seleção (IF) e Funções</a> | The IF statement allows conditional execution based on logical tests. Functions are reusable blocks of code designed to perform specific tasks or calculations.
-<a href="https://github.com/KarenKnup/Repeticoes-e-Sumarizacoes">Repetições e Sumarizações</a> | Loops (such as for, while) allow repeated execution of code, while summarizations are used to aggregate data.
-<a href="https://github.com/KarenKnup/Valores-Booleanos">Valores Booleanos</a> | Boolean values represent logical states, typically true or false, used in decision-making and control flow.
-<a href="https://github.com/KarenKnup/Sorteio-de-nums">Sorteio de números</a> | A method for generating random numbers, often used for simulations, games, or selection processes.
-<a href="https://github.com/KarenKnup/Vetores">Vetores</a> | Arrays (or vectors) are ordered collections of elements, often of the same type, accessible by an index.
-<a href="https://github.com/KarenKnup/Ponteiros">Ponteiros</a> | Pointers store memory addresses, allowing direct manipulation of data in memory and more efficient memory management.
-<a href="https://github.com/KarenKnup/Tabela-de-Frequencia">Tabela de Frequência</a> | A frequency table is a way to organize data, counting how often each unique value occurs in a dataset.
-<a href="https://github.com/KarenKnup/Strings">Strings</a> | Strings are sequences of characters used to represent text, allowing manipulation like concatenation, search, and slicing.
-<a href="https://github.com/KarenKnup/Matrizes">Matrizes</a> | Matrices are two-dimensional arrays that store data in rows and columns, commonly used in mathematical computations.
-<a href="https://github.com/KarenKnup/Structs">Structs</a> | Structures are custom data types that group variables of different types, useful for organizing related data.
-<a href="https://github.com/KarenKnup/Arquivos">Arquivos</a> | File handling refers to reading from and writing to files, enabling data storage and retrieval.
-<a href="https://github.com/KarenKnup/Listas">Listas</a> | Lists are ordered collections that can dynamically grow or shrink, commonly used for storing multiple items.
-<a href="https://github.com/KarenKnup/Recursividade">Recursividade</a> | Recursion is a programming technique where a function calls itself to solve smaller instances of a problem, often with a base case to terminate the process.
-<a href="https://github.com/KarenKnup/Estrutura-de-Dados">Estrutura de dados</a> | A "data structure" is a way of organizing and storing data to perform operations efficiently. It defines how data is arranged and accessed, enabling efficient processing and management. Common examples include arrays, linked lists, and trees.
+- <a href="https://github.com/KarenKnup/Selecao-If-e-Funcao">Seleção (IF) e Funções</a>
+- <a href="https://github.com/KarenKnup/Repeticoes-e-Sumarizacoes">Repetições e Sumarizações</a> 
+- <a href="https://github.com/KarenKnup/Valores-Booleanos">Valores Booleanos</a> 
+- <a href="https://github.com/KarenKnup/Sorteio-de-nums">Sorteio de números</a> 
+- <a href="https://github.com/KarenKnup/Vetores">Vetores</a> 
+- <a href="https://github.com/KarenKnup/Ponteiros">Ponteiros</a>
+- <a href="https://github.com/KarenKnup/Tabela-de-Frequencia">Tabela de Frequência</a> 
+- <a href="https://github.com/KarenKnup/Strings">Strings</a>
+- <a href="https://github.com/KarenKnup/Matrizes">Matrizes</a> 
+- <a href="https://github.com/KarenKnup/Structs">Structs</a>
+- <a href="https://github.com/KarenKnup/Arquivos">Arquivos</a>
+- <a href="https://github.com/KarenKnup/Listas">Listas</a> 
+- <a href="https://github.com/KarenKnup/Recursividade">Recursividade</a> 
+- <a href="https://github.com/KarenKnup/Estrutura-de-Dados">Estrutura de dados</a> 
 
 
 
