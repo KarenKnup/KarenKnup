@@ -47,3 +47,13 @@ Sistema Cotistas| System capable of controlling and organizing information effic
   <img src="https://github-readme-stats.vercel.app/api?username=KarenKnup&show_icons=true&theme=tokyonight" alt="Karen's Github Stats">
   <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarenKnup&layout=compact&langs_count=7&theme=tokyonight" alt="Karen's most used languages">
 </div>
+
+<h1><img src="https://i.postimg.cc/bwK9WYzj/07-1.webp" width="25px">𝙎𝙏𝙐𝘿𝙄𝙀𝙎 𝙍𝙀𝙋𝙊𝙎𝙄𝙏𝙊𝙍𝙄𝙀𝙎 :</h1>
+
+Repository | About
+---------------------------|-------
+X | x
+X | x
+X | x
+X | x
+X | x
