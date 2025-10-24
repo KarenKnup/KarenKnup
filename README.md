@@ -16,7 +16,7 @@
   - Hello, World! 🌎 My name's <strong>Karen</strong>.
   - I live in Rio de Janeiro, Brazil.
   - I studied <strong>Analysis and Systems development</strong> in <strong>FAETERJ</strong>.
-  - Currently learning <strong>Angular</strong> and <strong>Java</strong>.
+  - Currently learning <strong>Java</strong>.
 
 <h1><img src="https://i.postimg.cc/bwK9WYzj/07-1.webp" width="25px">𝙎𝙆𝙄𝙇𝙇𝙎 :</h1>
 
