@@ -40,7 +40,7 @@ Project | About | Technologies
 <a href="https://github.com/KarenKnup/Multifunctional-Calculator">Multifunctional Calculator</a> | A calculator capable of performing various complex calculations in addition to the functions of a scientific calculator. | `C Language`
 Sistema Cotistas| System capable of controlling and organizing information efficiently, simplifying processes, administration and interaction between the various sectors of FAETEC and all students involved. This system performs all the necessary CRUDs, generates and updates documents and reports. | `PHP` `HTML` `Bootstrap` `Google API` `Google Charts` `ViaCEP` `Javascript` `MySQL` `SweetAlert2` `Quill` `Font Awesome`
 <a href="https://www.linkedin.com/posts/karenknup_oii-rede-gostaria-de-compartilhar-activity-7232573538660999169-tgIc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEK_-T0BWaE0_TxX5sDYeeZVInk7p91gbFs">Controle de Frequência</a> | A software that aims to optimize the processes of registering and authenticating student attendance, the project proposes the implementation of a system based on reading QR Codes present on student ID cards and also generating reports. This software was created for the Brazilian Federal Government's "Pé-de-Meia" program. | `C#`
-<a href="https://github.com/KarenKnup/employee-management">Gerenciador de Licenças</a> | System for employee leave management. | `API` `TypeScript` `Angular` `Bootstrap` `Font Awesome` `MySQL`
+<a href="https://github.com/KarenKnup/employee-management">Gerenciador de Licenças</a> | System for employee leave management. | `API` `C#` `TypeScript` `Angular` `Bootstrap` `Font Awesome` `MySQL`
 
 <h1><img src="https://i.postimg.cc/bwK9WYzj/07-1.webp" width="25px">𝙈𝙊𝙎𝙏 𝙐𝙎𝙀𝘿 𝙇𝘼𝙉𝙂𝙐𝘼𝙂𝙀𝙎 :</h1>
 
