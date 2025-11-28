@@ -49,23 +49,6 @@ Sistema Cotistas| System capable of controlling and organizing information effic
   <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarenKnup&layout=compact&langs_count=7&theme=tokyonight" alt="Karen's most used languages">
 </div>
 
-<h1><img src="https://i.postimg.cc/bwK9WYzj/07-1.webp" width="25px">𝙎𝙏𝙐𝘿𝙄𝙀𝙎 𝙍𝙀𝙋𝙊𝙎𝙄𝙏𝙊𝙍𝙄𝙀𝙎 :</h1>
-
-- <a href="https://github.com/KarenKnup/Selecao-If-e-Funcao">Seleção (IF) e Funções</a> <strong>[Selection and Functions]</strong>
-- <a href="https://github.com/KarenKnup/Repeticoes-e-Sumarizacoes">Repetições e Sumarizações</a> <strong>[Loops]</strong>
-- <a href="https://github.com/KarenKnup/Valores-Booleanos">Valores Booleanos</a> <strong>[Boolean Values]</strong>
-- <a href="https://github.com/KarenKnup/Sorteio-de-nums">Sorteio de números</a> <strong>[Sorting Numbers]</strong>
-- <a href="https://github.com/KarenKnup/Vetores">Vetores</a> <strong>[Arrays]</strong>
-- <a href="https://github.com/KarenKnup/Ponteiros">Ponteiros</a> <strong>[Pointers]</strong>
-- <a href="https://github.com/KarenKnup/Tabela-de-Frequencia">Tabela de Frequência</a> <strong>[Frequency Table]</strong>
-- <a href="https://github.com/KarenKnup/Strings">Strings</a> 
-- <a href="https://github.com/KarenKnup/Matrizes">Matrizes</a> <strong>[Matrices]</strong>
-- <a href="https://github.com/KarenKnup/Structs">Structs</a> 
-- <a href="https://github.com/KarenKnup/Arquivos">Arquivos</a> <strong>[Files]</strong>
-- <a href="https://github.com/KarenKnup/Listas">Listas</a> <strong>[Lists]</strong>
-- <a href="https://github.com/KarenKnup/Recursividade">Recursividade</a> <strong>[Recursion]</strong>
-- <a href="https://github.com/KarenKnup/Estrutura-de-Dados">Estrutura de dados</a> <strong>[Data Structures]</strong>
-
 
 
 
